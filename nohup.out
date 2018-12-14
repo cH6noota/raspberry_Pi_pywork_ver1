@@ -1,0 +1,21 @@
+python: can't open file 'hoge.py': [Errno 2] No such file or directory
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "mqtt_cmd.py", line 8
+SyntaxError: Non-ASCII character '\xe3' in file mqtt_cmd.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
